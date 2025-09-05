@@ -8,6 +8,6 @@ class LagrangePolynomial(Base):
         if len(x_values) != self.data_size or len(y_values != self.data_size):
             return None
         
+    
 
-        
         

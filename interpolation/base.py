@@ -5,7 +5,7 @@ class Base:
 
     def fit(self, x_values, y_values):
         pass
-        
+    
 
 
         
