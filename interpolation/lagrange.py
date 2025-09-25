@@ -7,7 +7,7 @@ class LagrangePolynomial(Base):
 
     def fit(self, x_values, y_values):
         self.coef_ = lagrange_solver.lagrange_solver(x_values, y_values)
-
+        
         
         
         
